@@ -38,8 +38,7 @@ An algorithm that positions tree structured data items as an inverted tree
 
 **To this:**
 
-<img width="800" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/petgrooming.png">
-
+<img width="800" alt="img" src="https://github.com/stylekit/img/blob/master/petgrooming.png?raw=true">
 
 **Ascending symmetrically:** 
 
