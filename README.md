@@ -43,4 +43,4 @@ An algorithm that positions tree structured data items as an inverted tree
 
 **Ascending symmetrically:** 
 
-<img width="800" alt="img" src="https://raw.githubusercontent.com/learn-anything/img/master/Screen Shot 2017-05-22 at 02.39.34.png">
+<img width="800" alt="img" src="https://github.com/stylekit/img/blob/master/Screen Shot 2017-05-22 at 02.39.34.png?raw=true">
